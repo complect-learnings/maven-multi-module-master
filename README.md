@@ -1,2 +1,3 @@
-# maven-multi-module-master
-maven-multi-module-master
+# Maven Multi Module
+
+A multi-module maven project
